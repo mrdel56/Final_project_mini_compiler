@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int a = 77;
+    b = 33;
+    result1 = a+b+ 11;
+    x = 60;
+    y = 40;
+    result2 = x * y + 2;
+    if(a>=b){
+        result1= 0;
+        a= a+b;
+    }
+    else
+    {
+        a = a + 1;
+        Result3 = x*10;
+    }
+    n=9;
+}
