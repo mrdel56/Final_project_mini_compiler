@@ -1,0 +1,11 @@
+int main() {
+    int a;
+    b = 5;        // Error: 'b' not declared
+    c = a + b;    // Error: 'c' and 'b' not declared
+    return a;
+}
+
+int calculate(int x) {
+    result = x * 2;  // Error: 'result' not declared
+    return result
+}
